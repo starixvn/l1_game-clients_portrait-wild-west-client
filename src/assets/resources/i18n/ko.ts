@@ -80,8 +80,8 @@ export const languages = {
         "balance": "잔액",
         "bet": "베팅",
         "msg_random_multipliers": "최대 250배 랜덤 멀티플라이어",
-        "mgs_free_spins": "{Free Spins}에서 증가하는 멀티플라이어",
-        "btn_buy_free_spins": "Free Spins\n구매"
+        "btn_buy_free_spins": "Free Spins\n구매",
+        "msg_free_spins": "Free Spins에서 증가하는 멀티플라이어"
     },
     "Common": {
         "bet_history": "베팅 내역",
@@ -374,7 +374,9 @@ export const languages = {
         "title_multiplier": "배수",
         "crash_start_in": "시작까지 %{time}",
         "crashed": "크래시",
-        "start": "시작"
+        "start": "시작",
+        "max": "최대",
+        "stop_auto_bet": "자동 베팅 중단"
     },
     "PickleballLoveStory": {
         "game_name": null,
@@ -457,6 +459,10 @@ export const languages = {
         "total_win": "총 당첨금",
         "Unexpected_gift_code_error_message": "예기치 않은 오류가 발생했습니다. 나중에 다시 시도해 주십시오.",
         "Close": "닫기"
+    },
+    "WildWestMostWanted": {
+        "game_name": "Wild 서부 현상 수배",
+        "game_icon_name": "Wild 서부\n무법자"
     }
 };
 

@@ -1,4 +1,4 @@
 window.crossConfig = {
     backgroundLocalized: false,
-    storagePrefixKey: "olympub",
+    storagePrefixKey: "wild_west_most_wanted",
 };

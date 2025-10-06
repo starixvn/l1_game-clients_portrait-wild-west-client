@@ -291,7 +291,9 @@ export const languages = {
         "invalid_bonus": "invalid_bonus",
         "opened_bonus": "opened_bonus",
         "invalid_jackpot": "invalid_jackpot",
-        "opened_jackpot": "opened_jackpot"
+        "opened_jackpot": "opened_jackpot",
+        "max": "最大",
+        "stop_auto_bet": "停止自动投注"
     },
     "cascadingslot": {
         "auto_spin": "自动旋转",
@@ -373,8 +375,8 @@ export const languages = {
         "you_have_won": "你赢了",
         "you_win_free_spin": "您赢得",
         "msg_random_multipliers": "随机倍数最高可达250x",
-        "mgs_free_spins": "Free Spin中的递增倍数",
-        "btn_buy_free_spins": "購買\nFree Spins"
+        "btn_buy_free_spins": "購買\nFree Spins",
+        "msg_free_spins": "Free Spin中的递增倍数"
     },
     "Olympub": {
         "game_icon_name": "奥林酒馆",
@@ -453,6 +455,10 @@ export const languages = {
         "total_bet": "总投注",
         "total_win": "总奖金",
         "Unexpected_gift_code_error_message": "发生意外错误。请稍后重试。"
+    },
+    "WildWestMostWanted": {
+        "game_name": "狂野西部牛仔",
+        "game_icon_name": "狂野西部牛仔"
     }
 };
 

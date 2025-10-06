@@ -291,7 +291,9 @@ export const languages = {
         "invalid_bonus": "invalid_bonus",
         "opened_bonus": "opened_bonus",
         "invalid_jackpot": "invalid_jackpot",
-        "opened_jackpot": "opened_jackpot"
+        "opened_jackpot": "opened_jackpot",
+        "max": "Máx.",
+        "stop_auto_bet": "Detener apuesta automática"
     },
     "cascadingslot": {
         "auto_spin": "Giro Automático",
@@ -317,9 +319,9 @@ export const languages = {
         "free_spins_active": "Activo",
         "free_spin_title": "Free Spin",
         "FreeSpin-title": "Free Spin",
-        "from_settle_to_spin1": "¡GIRA Y GANA!",
-        "from_settle_to_spin2": "¡GIRA MÁS, GANA MÁS!",
-        "from_settle_to_spin3": "¡PRUEBA EL MODO TURBO!",
+        "from_settle_to_spin1": "¡Gira y gana!",
+        "from_settle_to_spin2": "¡Gira más, gana más!",
+        "from_settle_to_spin3": "Prueba el modo Turbo",
         "gameNames.47": "Isla del Tesoro",
         "header_initial_spin": "Giro Inicial",
         "header_no": "No.",
@@ -346,10 +348,10 @@ export const languages = {
         "reach_max_win": "¡Alcanzaste la Ganancia Máxima!",
         "real_mode": "Dinero Real",
         "remaining_free_spins": "Free Spin Restantes",
-        "round_settle_msg": "¡BUENA SUERTE!",
+        "round_settle_msg": "¡Buena suerte!",
         "scatter_odds_preview": "%{numOfScatters} o más Scatters activan %{numOfSpins} FREE SPINS.",
-        "show_msg_when_spin_desktop": "MANTÉN ESPACIO O HAZ CLIC EN GIRAR",
-        "show_msg_when_spin_phone": "PULSA O MANTÉN PULSADO GIRAR PARA COMENZAR",
+        "show_msg_when_spin_desktop": "Mantén Espacio o haz clic en Girar",
+        "show_msg_when_spin_phone": "Pulsa o mantén pulsado Girar para comenzar",
         "start": "Iniciar",
         "super_win": "Super Win",
         "top_message1": "LOS SÍMBOLOS PAGAN EN CUALQUIER LUGAR DE LA PANTALLA",
@@ -372,9 +374,9 @@ export const languages = {
         "win_tumble_msg": "¡FELICIDADES!",
         "you_have_won": "Has Ganado",
         "you_win_free_spin": "Ganaste",
-        "msg_random_multipliers": "Multiplicadores Aleatorios De Hasta 250x",
-        "mgs_free_spins": "Multiplicador Creciente En Free Spin",
-        "btn_buy_free_spins": "Comprar\nFree Spins"
+        "msg_random_multipliers": "Multiplicadores aleatorios de hasta 250x",
+        "btn_buy_free_spins": "Comprar\nFree Spins",
+        "msg_free_spins": "Multiplicador creciente en Free Spin"
     },
     "Olympub": {
         "game_icon_name": "Olympub",
@@ -453,6 +455,10 @@ export const languages = {
         "total_bet": "Apuesta Total",
         "total_win": "Ganancia Total",
         "Unexpected_gift_code_error_message": "Se ha producido un error inesperado. Por favor, inténtelo de nuevo más tarde."
+    },
+    "WildWestMostWanted": {
+        "game_name": "Wild West Most Wanted",
+        "game_icon_name": "Wild West\nMost Wanted"
     }
 };
 

@@ -291,7 +291,9 @@ export const languages = {
         "invalid_bonus": "invalid_bonus",
         "opened_bonus": "opened_bonus",
         "invalid_jackpot": "invalid_jackpot",
-        "opened_jackpot": "opened_jackpot"
+        "opened_jackpot": "opened_jackpot",
+        "max": "Max",
+        "stop_auto_bet": "Stop Auto Bet"
     },
     "cascadingslot": {
         "auto_spin": "Auto Spin",
@@ -317,9 +319,9 @@ export const languages = {
         "free_spins_active": "Active",
         "free_spin_title": "Free Spin",
         "FreeSpin-title": "Free Spin",
-        "from_settle_to_spin1": "SPIN TO WIN!",
-        "from_settle_to_spin2": "SPIN MORE, WIN MORE!",
-        "from_settle_to_spin3": "TRY TURBO MODE!",
+        "from_settle_to_spin1": "Spin to win!",
+        "from_settle_to_spin2": "Spin more, win more!",
+        "from_settle_to_spin3": "Try Turbo mode",
         "gameNames.47": "Treasure Island",
         "header_initial_spin": "Initial Spin",
         "header_no": "No.",
@@ -346,10 +348,10 @@ export const languages = {
         "reach_max_win": "You reached the Max Win",
         "real_mode": "Real Mode",
         "remaining_free_spins": "Remaining Free Spins",
-        "round_settle_msg": "GOOD LUCK!",
+        "round_settle_msg": "Good luck!",
         "scatter_odds_preview": "%{numOfScatters}+ Scatters trigger %{numOfSpins} FREE SPINS.",
-        "show_msg_when_spin_desktop": "HOLD SPACE OR CLICK SPIN",
-        "show_msg_when_spin_phone": "TAP OR HOLD SPIN TO BEGIN",
+        "show_msg_when_spin_desktop": "Hold Space or click Spin",
+        "show_msg_when_spin_phone": "Tap or hold Spin to begin",
         "start": "Start",
         "super_win": "Super Win",
         "top_message1": "SYMBOLS PAY ANYWHERE ON THE SCREEN",
@@ -372,9 +374,9 @@ export const languages = {
         "win_tumble_msg": "CONGRATULATION!",
         "you_have_won": "You Have Won",
         "you_win_free_spin": "You win",
-        "msg_random_multipliers": "Random Multipliers Up To 250x",
-        "mgs_free_spins": "Increasing Multiplier In Free Spins",
-        "btn_buy_free_spins": "Buy\nFree Spins"
+        "msg_random_multipliers": "Random Multipliers up to 250x",
+        "btn_buy_free_spins": "Buy\nFree Spins",
+        "msg_free_spins": "Increasing Multiplier in Free Spins"
     },
     "Olympub": {
         "game_icon_name": "Olympub",
@@ -453,6 +455,10 @@ export const languages = {
         "total_bet": "Total Bet",
         "total_win": "Total Win",
         "Unexpected_gift_code_error_message": "Unexpected error occurred. Please try again later."
+    },
+    "WildWestMostWanted": {
+        "game_name": "Wild West Most Wanted",
+        "game_icon_name": "Wild West\nMost Wanted"
     }
 };
 

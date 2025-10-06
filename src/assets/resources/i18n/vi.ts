@@ -291,7 +291,9 @@ export const languages = {
         "invalid_bonus": "invalid_bonus",
         "opened_bonus": "opened_bonus",
         "invalid_jackpot": "invalid_jackpot",
-        "opened_jackpot": "opened_jackpot"
+        "opened_jackpot": "opened_jackpot",
+        "max": "Max",
+        "stop_auto_bet": "Dừng cược tự động"
     },
     "cascadingslot": {
         "auto_spin": "Tự Quay",
@@ -317,9 +319,9 @@ export const languages = {
         "free_spins_active": "Đang Hoạt Động",
         "free_spin_title": "Free Spin",
         "FreeSpin-title": "Free Spin",
-        "from_settle_to_spin1": "QUAY SẼ THẮNG!",
-        "from_settle_to_spin2": "CÀNG QUAY, CÀNG THẮNG!",
-        "from_settle_to_spin3": "THỬ BẬT TÍNH NĂNG SIÊU TỐC!",
+        "from_settle_to_spin1": "Quay sẽ thắng!",
+        "from_settle_to_spin2": "Càng quay, càng thắng!",
+        "from_settle_to_spin3": "Thử bật tính năng Siêu Tốc",
         "gameNames.47": "Đảo Châu Báu",
         "header_initial_spin": "Vòng Quay Đầu",
         "header_no": "Stt",
@@ -346,10 +348,10 @@ export const languages = {
         "reach_max_win": "Bạn Đã Đạt Mức Tiền Thắng Tối Đa",
         "real_mode": "Chơi Thật",
         "remaining_free_spins": "Lượt Free Spin Còn Lại",
-        "round_settle_msg": "CHÚC MAY MẮN!",
+        "round_settle_msg": "Chúc may mắn!",
         "scatter_odds_preview": "%{numOfScatters}+ Scatters kích hoạt %{numOfSpins} FREE SPINS.",
-        "show_msg_when_spin_desktop": "BẤM QUAY HOẶC GIỮ PHÍM SPACE",
-        "show_msg_when_spin_phone": "BẤM HOẶC GIỮ NÚT QUAY ĐỂ BẮT ĐẦU",
+        "show_msg_when_spin_desktop": "Bấm Quay hoặc giữ phím Space",
+        "show_msg_when_spin_phone": "Bấm hoặc giữ nút Quay để bắt đầu",
         "start": "Bắt Đầu",
         "super_win": "Thắng Cực Lớn",
         "top_message1": "BIỂU TƯỢNG ĐƯỢC TÍNH THẮNG NẰM Ở VỊ TRÍ BẤT KỲ",
@@ -372,9 +374,9 @@ export const languages = {
         "win_tumble_msg": "CHÚC MỪNG!",
         "you_have_won": "Bạn Đã Chiến Thắng",
         "you_win_free_spin": "Bạn đã thắng",
-        "msg_random_multipliers": "Hệ Số Nhân Ngẫu Nhiên Lên Đến 250x",
-        "mgs_free_spins": "Hệ Số Nhân Tăng Dần Trong Free Spin",
-        "btn_buy_free_spins": "Mua\nFree Spins"
+        "msg_random_multipliers": "Hệ Số Nhân ngẫu nhiên lên đến 250x",
+        "btn_buy_free_spins": "Mua\nFree Spins",
+        "msg_free_spins": "Hệ Số Nhân tăng dần trong Free Spin"
     },
     "Olympub": {
         "game_icon_name": "Quán Bar\nOlympus",
@@ -453,6 +455,10 @@ export const languages = {
         "total_bet": "Tổng Cược",
         "total_win": "Tổng Thắng",
         "Unexpected_gift_code_error_message": "Đã xảy ra lỗi. Vui lòng thử lại sau."
+    },
+    "WildWestMostWanted": {
+        "game_name": "Tay Súng Cừ Khôi",
+        "game_icon_name": "Tay Súng\nCừ Khôi"
     }
 };
 

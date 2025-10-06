@@ -291,7 +291,9 @@ export const languages = {
         "invalid_bonus": "invalid_bonus",
         "opened_bonus": "opened_bonus",
         "invalid_jackpot": "invalid_jackpot",
-        "opened_jackpot": "opened_jackpot"
+        "opened_jackpot": "opened_jackpot",
+        "max": "Maks",
+        "stop_auto_bet": "Berhenti Taruhan Otomatis"
     },
     "cascadingslot": {
         "auto_spin": "Auto Putar",
@@ -317,9 +319,9 @@ export const languages = {
         "free_spins_active": "Aktif",
         "free_spin_title": "Free Spin",
         "FreeSpin-title": "Free Spin",
-        "from_settle_to_spin1": "PUTAR UNTUK MENANG!",
-        "from_settle_to_spin2": "PUTAR LEBIH BANYAK, MENANG LEBIH BANYAK!",
-        "from_settle_to_spin3": "COBA MODE TURBO!",
+        "from_settle_to_spin1": "Putar untuk menang!",
+        "from_settle_to_spin2": "Putar lebih banyak, menang lebih banyak!",
+        "from_settle_to_spin3": "Coba mode Turbo",
         "gameNames.47": "Pulau Harta Karun",
         "header_initial_spin": "Putaran Pertama",
         "header_no": "Nomor",
@@ -346,10 +348,10 @@ export const languages = {
         "reach_max_win": "Anda mencapai Maksimal Menang",
         "real_mode": "Mode Nyata",
         "remaining_free_spins": "Free Spin Tersisa",
-        "round_settle_msg": "SEMOGA BERUNTUNG!",
+        "round_settle_msg": "Semoga beruntung!",
         "scatter_odds_preview": "%{numOfScatters}+ Scatters memicu  %{numOfSpins} FREE SPINS.",
-        "show_msg_when_spin_desktop": "TAHAN SPASI ATAU KLIK SPIN",
-        "show_msg_when_spin_phone": "KETUK ATAU TAHAN SPIN UNTUK MEMULAI",
+        "show_msg_when_spin_desktop": "Tahan Spasi atau klik Spin",
+        "show_msg_when_spin_phone": "Ketuk atau tahan Spin untuk memulai",
         "start": "Mulai",
         "super_win": "Kemenangan Super",
         "top_message1": "SIMBOL MEMBAYAR DI MANA SAJA DI LAYAR",
@@ -372,9 +374,9 @@ export const languages = {
         "win_tumble_msg": "SELAMAT!",
         "you_have_won": "Anda Telah Menang",
         "you_win_free_spin": "Anda menang",
-        "msg_random_multipliers": "Pengganda Acak Hingga 250x",
-        "mgs_free_spins": "Pengganda Meningkat Dalam Free Spin",
-        "btn_buy_free_spins": "Beli\nFree Spins"
+        "msg_random_multipliers": "Pengganda acak hingga 250x",
+        "btn_buy_free_spins": "Beli\nFree Spins",
+        "msg_free_spins": "Pengganda meningkat dalam Free Spin"
     },
     "Olympub": {
         "game_icon_name": "Olympub",
@@ -453,6 +455,10 @@ export const languages = {
         "total_bet": "Total Taruhan",
         "total_win": "Total Menang ",
         "Unexpected_gift_code_error_message": "Terjadi kesalahan tak terduga. Silakan coba lagi nanti."
+    },
+    "WildWestMostWanted": {
+        "game_name": "Wild West Most Wanted",
+        "game_icon_name": "Wild West\nMost Wanted"
     }
 };
 

@@ -1,384 +1,216 @@
 
 effect.webp
-size: 2113,761
+size: 1656,1656
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-Framepop
+BG freespin
   rotate: false
-  xy: 790, 672
-  size: 559, 88
-  orig: 559, 88
-  offset: 0, 0
+  xy: 0, 1016
+  size: 634, 640
+  orig: 636, 642
+  offset: 1, 1
   index: -1
-aph-arm
+BG win
   rotate: false
-  xy: 1476, 3
-  size: 78, 185
-  orig: 78, 186
-  offset: 0, 0
+  xy: 0, 374
+  size: 634, 640
+  orig: 636, 642
+  offset: 1, 1
   index: -1
-aph-eyes
-  rotate: false
-  xy: 671, 376
-  size: 77, 29
-  orig: 77, 29
-  offset: 0, 0
+bigwin arm L
+  rotate: true
+  xy: 1312, 3
+  size: 113, 186
+  orig: 115, 188
+  offset: 1, 1
   index: -1
-aph-hair
+bigwin mascot
   rotate: false
-  xy: 1725, 1
-  size: 41, 61
-  orig: 41, 61
-  offset: 0, 0
+  xy: 1052, 101
+  size: 258, 311
+  orig: 260, 313
+  offset: 1, 1
   index: -1
-aph-heart
+bigwin popup
   rotate: false
-  xy: 489, 364
-  size: 45, 41
-  orig: 45, 42
-  offset: 0, 0
+  xy: 636, 1349
+  size: 626, 307
+  orig: 628, 310
+  offset: 1, 1
   index: -1
-aphbody
+bigwin tag
   rotate: false
-  xy: 1066, 367
-  size: 229, 303
-  orig: 229, 303
-  offset: 0, 0
+  xy: 636, 624
+  size: 560, 103
+  orig: 562, 105
+  offset: 1, 1
   index: -1
-beerglass
+circle dot
   rotate: false
-  xy: 1132, 45
-  size: 114, 114
-  orig: 114, 114
-  offset: 0, 0
+  xy: 1255, 751
+  size: 287, 287
+  orig: 289, 289
+  offset: 1, 1
   index: -1
-bigglass1
+freespin arm R
   rotate: false
-  xy: 1726, 295
-  size: 116, 155
-  orig: 135, 159
-  offset: 11, 1
+  xy: 1500, 22
+  size: 74, 94
+  orig: 76, 96
+  offset: 1, 1
   index: -1
-bigglass2
+freespin free
   rotate: false
-  xy: 1844, 224
-  size: 104, 131
-  orig: 118, 138
-  offset: 7, 0
+  xy: 628, 74
+  size: 239, 88
+  orig: 242, 90
+  offset: 1, 1
   index: -1
-botbia
+freespin mascot
   rotate: false
-  xy: 751, 360
-  size: 313, 310
-  orig: 368, 368
-  offset: 29, 33
+  xy: 1312, 118
+  size: 249, 294
+  orig: 251, 296
+  offset: 1, 1
   index: -1
-cheer-hand
+freespin number bg
   rotate: false
-  xy: 1, 40
-  size: 419, 275
-  orig: 419, 276
-  offset: 0, 0
+  xy: 636, 164
+  size: 414, 248
+  orig: 416, 250
+  offset: 1, 1
   index: -1
-font-number-export
-  rotate: false
-  xy: 1, 690
-  size: 787, 70
-  orig: 799, 88
-  offset: 6, 4
+freespin spins
+  rotate: true
+  xy: 1557, 1203
+  size: 286, 87
+  orig: 288, 89
+  offset: 1, 1
   index: -1
-freeglass
-  rotate: false
-  xy: 489, 407
-  size: 260, 281
-  orig: 260, 295
-  offset: 0, 7
+freespin text bg
+  rotate: true
+  xy: 1264, 1137
+  size: 519, 179
+  orig: 521, 181
+  offset: 1, 1
   index: -1
-herabody
-  rotate: false
-  xy: 1534, 332
-  size: 190, 324
-  orig: 190, 324
-  offset: 0, 0
+megawin arm L
+  rotate: true
+  xy: 869, 71
+  size: 91, 159
+  orig: 93, 161
+  offset: 1, 1
   index: -1
-heraeyes
+megawin arm R
   rotate: false
-  xy: 671, 238
-  size: 63, 24
-  orig: 63, 24
-  offset: 0, 0
+  xy: 1557, 1491
+  size: 99, 165
+  orig: 101, 167
+  offset: 1, 1
   index: -1
-herahands
+megawin mascot
   rotate: false
-  xy: 649, 2
-  size: 107, 200
-  orig: 107, 200
-  offset: 0, 0
+  xy: 1198, 414
+  size: 230, 313
+  orig: 232, 316
+  offset: 1, 1
   index: -1
-megaglass1
+megawin popup
   rotate: false
-  xy: 1725, 163
-  size: 106, 130
-  orig: 110, 130
-  offset: 2, 0
+  xy: 0, 65
+  size: 626, 307
+  orig: 628, 310
+  offset: 1, 1
   index: -1
-megaglass2
+megawin tag
   rotate: false
-  xy: 1950, 184
-  size: 95, 171
-  orig: 99, 172
-  offset: 2, 0
+  xy: 636, 519
+  size: 560, 103
+  orig: 562, 105
+  offset: 1, 1
   index: -1
-mn2/mn2s_00
+popup decor
   rotate: false
-  xy: 1359, 162
-  size: 1, 1
-  orig: 321, 210
-  offset: 320, 0
+  xy: 636, 729
+  size: 617, 309
+  orig: 619, 311
+  offset: 1, 1
   index: -1
-mn2/mn2s_28
-  rotate: false
-  xy: 1359, 162
-  size: 1, 1
-  orig: 321, 210
-  offset: 320, 0
+star
+  rotate: true
+  xy: 160, 18
+  size: 45, 70
+  orig: 47, 72
+  offset: 1, 1
   index: -1
-mn2/mn2s_29
+superwin arm L
   rotate: false
-  xy: 1359, 162
-  size: 1, 1
-  orig: 321, 210
-  offset: 320, 0
+  xy: 1525, 429
+  size: 92, 53
+  orig: 94, 55
+  offset: 1, 1
   index: -1
-mn2/mn2s_01
+superwin arm R
   rotate: false
-  xy: 1053, 271
-  size: 61, 87
-  orig: 321, 210
-  offset: 251, 21
+  xy: 1430, 424
+  size: 93, 58
+  orig: 95, 60
+  offset: 1, 1
   index: -1
-mn2/mn2s_02
+superwin hat a
   rotate: false
-  xy: 1725, 64
-  size: 61, 97
-  orig: 321, 210
-  offset: 245, 19
+  xy: 1430, 484
+  size: 201, 115
+  orig: 203, 117
+  offset: 1, 1
   index: -1
-mn2/mn2s_03
+superwin hat b
   rotate: false
-  xy: 422, 1
-  size: 63, 108
-  orig: 321, 210
-  offset: 237, 16
+  xy: 0, 30
+  size: 118, 33
+  orig: 120, 35
+  offset: 1, 1
   index: -1
-mn2/mn2s_04
-  rotate: false
-  xy: 2047, 237
-  size: 64, 118
-  orig: 321, 210
-  offset: 229, 14
+superwin mascot
+  rotate: true
+  xy: 1430, 601
+  size: 148, 226
+  orig: 151, 228
+  offset: 2, 1
   index: -1
-mn2/mn2s_05
-  rotate: false
-  xy: 1656, 203
-  size: 67, 127
-  orig: 321, 210
-  offset: 220, 12
+superwin money fly
+  rotate: true
+  xy: 120, 0
+  size: 63, 38
+  orig: 65, 40
+  offset: 1, 1
   index: -1
-mn2/mn2s_06
-  rotate: false
-  xy: 1248, 23
-  size: 69, 136
-  orig: 321, 210
-  offset: 212, 10
+superwin money land
+  rotate: true
+  xy: 1445, 1168
+  size: 488, 110
+  orig: 490, 112
+  offset: 1, 1
   index: -1
-mn2/mn2s_07
-  rotate: false
-  xy: 1460, 215
-  size: 71, 145
-  orig: 321, 210
-  offset: 203, 8
+superwin pack money
+  rotate: true
+  xy: 1264, 1040
+  size: 95, 137
+  orig: 97, 139
+  offset: 1, 1
   index: -1
-mn2/mn2s_08
+superwin popup
   rotate: false
-  xy: 1319, 7
-  size: 75, 153
-  orig: 321, 210
-  offset: 193, 7
+  xy: 636, 1040
+  size: 626, 307
+  orig: 628, 310
+  offset: 1, 1
   index: -1
-mn2/mn2s_09
+superwin tag
   rotate: false
-  xy: 1396, 2
-  size: 78, 161
-  orig: 321, 210
-  offset: 184, 5
-  index: -1
-mn2/mn2s_10
-  rotate: false
-  xy: 1642, 20
-  size: 81, 168
-  orig: 321, 210
-  offset: 175, 4
-  index: -1
-mn2/mn2s_11
-  rotate: false
-  xy: 2015, 7
-  size: 85, 175
-  orig: 321, 210
-  offset: 165, 3
-  index: -1
-mn2/mn2s_12
-  rotate: false
-  xy: 1926, 1
-  size: 87, 181
-  orig: 321, 210
-  offset: 156, 2
-  index: -1
-mn2/mn2s_13
-  rotate: false
-  xy: 1833, 36
-  size: 91, 186
-  orig: 321, 210
-  offset: 146, 1
-  index: -1
-mn2/mn2s_14
-  rotate: false
-  xy: 1035, 72
-  size: 95, 190
-  orig: 321, 210
-  offset: 136, 1
-  index: -1
-mn2/mn2s_15
-  rotate: false
-  xy: 1359, 165
-  size: 99, 195
-  orig: 321, 210
-  offset: 126, 0
-  index: -1
-mn2/mn2s_16
-  rotate: false
-  xy: 1255, 162
-  size: 102, 198
-  orig: 321, 210
-  offset: 116, 0
-  index: -1
-mn2/mn2s_17
-  rotate: false
-  xy: 541, 1
-  size: 106, 201
-  orig: 321, 210
-  offset: 106, 0
-  index: -1
-mn2/mn2s_18
-  rotate: false
-  xy: 1970, 357
-  size: 110, 203
-  orig: 321, 210
-  offset: 96, 0
-  index: -1
-mn2/mn2s_19
-  rotate: false
-  xy: 1726, 452
-  size: 114, 204
-  orig: 321, 210
-  offset: 86, 0
-  index: -1
-mn2/mn2s_20
-  rotate: false
-  xy: 422, 111
-  size: 117, 204
-  orig: 321, 210
-  offset: 77, 1
-  index: -1
-mn2/mn2s_21
-  rotate: false
-  xy: 1132, 161
-  size: 121, 204
-  orig: 321, 210
-  offset: 67, 1
-  index: -1
-mn2/mn2s_22
-  rotate: false
-  xy: 1844, 357
-  size: 124, 203
-  orig: 321, 210
-  offset: 57, 2
-  index: -1
-mn2/mn2s_23
-  rotate: false
-  xy: 541, 204
-  size: 128, 201
-  orig: 321, 210
-  offset: 47, 4
-  index: -1
-mn2/mn2s_24
-  rotate: false
-  xy: 1842, 562
-  size: 131, 198
-  orig: 321, 210
-  offset: 38, 5
-  index: -1
-mn2/mn2s_25
-  rotate: false
-  xy: 758, 67
-  size: 134, 195
-  orig: 321, 210
-  offset: 29, 7
-  index: -1
-mn2/mn2s_26
-  rotate: false
-  xy: 1975, 569
-  size: 137, 191
-  orig: 321, 210
-  offset: 20, 9
-  index: -1
-mn2/mn2s_27
-  rotate: false
-  xy: 894, 75
-  size: 139, 187
-  orig: 321, 210
-  offset: 12, 11
-  index: -1
-temple
-  rotate: false
-  xy: 1, 317
-  size: 486, 371
-  orig: 490, 384
-  offset: 2, 8
-  index: -1
-text-bigwin
-  rotate: false
-  xy: 671, 264
-  size: 380, 94
-  orig: 620, 140
-  offset: 120, 23
-  index: -1
-text-freespins
-  rotate: false
-  xy: 1351, 658
-  size: 460, 102
-  orig: 620, 140
-  offset: 80, 19
-  index: -1
-zeusL
-  rotate: false
-  xy: 1533, 190
-  size: 121, 140
-  orig: 121, 140
-  offset: 0, 0
-  index: -1
-zeusR
-  rotate: false
-  xy: 1556, 22
-  size: 84, 166
-  orig: 84, 166
-  offset: 0, 0
-  index: -1
-zeusbody
-  rotate: false
-  xy: 1297, 362
-  size: 235, 294
-  orig: 235, 294
-  offset: 0, 0
+  xy: 636, 414
+  size: 560, 103
+  orig: 562, 105
+  offset: 1, 1
   index: -1

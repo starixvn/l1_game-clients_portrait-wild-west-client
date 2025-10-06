@@ -1,0 +1,216 @@
+{
+"skeleton": {
+	"hash": "UsmxOrbHcZeRAqY2L03+ZJ/aYxU",
+	"spine": "3.8.99",
+	"x": -320,
+	"y": -317,
+	"width": 640.01,
+	"height": 642,
+	"images": "./images/",
+	"audio": "F:/WorkFolder/9 slotgame lucky luke/animation/popup"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "freespin", "parent": "root" },
+	{ "name": "bg", "parent": "root" },
+	{ "name": "circle dot", "parent": "bg", "x": 15.42, "y": 22.64 },
+	{ "name": "star1", "parent": "bg", "x": 95.89, "y": -49.26, "scaleX": 0.5, "scaleY": 0.5 },
+	{ "name": "popup decor", "parent": "bg", "x": 10.51, "y": 26.72 },
+	{ "name": "bg win", "parent": "bg" },
+	{ "name": "circle dot2", "parent": "bg", "x": 15.42, "y": 22.64 },
+	{ "name": "star2", "parent": "bg", "x": 53.58, "y": -89.85 },
+	{ "name": "star3", "parent": "bg", "x": 95.29, "y": -85.6, "scaleX": 0.75, "scaleY": 0.75 },
+	{ "name": "freespin free", "parent": "freespin", "x": -190.32, "y": -158.68 },
+	{ "name": "freespin spins", "parent": "freespin", "x": -140.99, "y": -249.04 },
+	{ "name": "freespin text bg", "parent": "freespin", "x": 249.48, "y": 114.94 },
+	{ "name": "freespin number bg", "parent": "freespin", "x": 18.06, "y": 27.81 },
+	{ "name": "freespin mascot", "parent": "freespin", "x": 154.97, "y": -270.45 },
+	{ "name": "freespin arm R", "parent": "freespin mascot", "x": -39.65, "y": 132.31 },
+	{ "name": "text-congratulation", "parent": "root", "x": 17.94, "y": 251.16 },
+	{ "name": "text-you-won", "parent": "root", "x": 17.94, "y": 197.34 },
+	{ "name": "number", "parent": "root", "x": 17.94, "y": 26.91 }
+],
+"slots": [
+	{ "name": "bg win", "bone": "bg win", "attachment": "BG freespin" },
+	{ "name": "circle dot", "bone": "circle dot", "attachment": "circle dot" },
+	{ "name": "circle dot2", "bone": "circle dot2", "attachment": "circle dot" },
+	{ "name": "popup decor", "bone": "popup decor", "color": "ff4e70ff", "attachment": "popup decor" },
+	{ "name": "freespin text bg", "bone": "freespin text bg", "attachment": "freespin text bg" },
+	{ "name": "freespin number bg", "bone": "freespin number bg", "attachment": "freespin number bg" },
+	{ "name": "freespin arm R", "bone": "freespin arm R", "attachment": "freespin arm R" },
+	{ "name": "freespin mascot", "bone": "freespin mascot", "attachment": "freespin mascot" },
+	{ "name": "freespin free", "bone": "freespin free", "attachment": "freespin free" },
+	{ "name": "freespin spins", "bone": "freespin spins", "attachment": "freespin spins" },
+	{ "name": "star", "bone": "star1", "attachment": "star" },
+	{ "name": "star2", "bone": "star2", "attachment": "star" },
+	{ "name": "star3", "bone": "star3", "attachment": "star" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"bg win": {
+				"BG freespin": { "x": -2, "y": 4, "width": 636, "height": 642 }
+			},
+			"circle dot": {
+				"circle dot": { "width": 289, "height": 289 }
+			},
+			"circle dot2": {
+				"circle dot": { "width": 289, "height": 289 }
+			},
+			"freespin arm R": {
+				"freespin arm R": { "x": -21.33, "y": 35.15, "width": 76, "height": 96 }
+			},
+			"freespin free": {
+				"freespin free": { "x": 2.32, "y": 0.68, "width": 242, "height": 90 }
+			},
+			"freespin mascot": {
+				"freespin mascot": { "x": 18.53, "y": 129.45, "width": 251, "height": 296 }
+			},
+			"freespin number bg": {
+				"freespin number bg": { "x": -3.06, "y": 0.19, "width": 416, "height": 250 }
+			},
+			"freespin spins": {
+				"freespin spins": { "x": 2.99, "y": 0.54, "width": 288, "height": 89 }
+			},
+			"freespin text bg": {
+				"freespin text bg": { "x": -242.98, "y": 85.56, "width": 521, "height": 181 }
+			},
+			"popup decor": {
+				"popup decor": { "width": 619, "height": 311 }
+			},
+			"star": {
+				"star": { "width": 47, "height": 72 }
+			},
+			"star2": {
+				"star": { "width": 47, "height": 72 }
+			},
+			"star3": {
+				"star": { "width": 47, "height": 72 }
+			}
+		}
+	}
+],
+"animations": {
+	"show": {
+		"slots": {
+			"circle dot": {
+				"color": [
+					{ "time": 1.3333, "color": "ffffffff" },
+					{ "time": 2.1667, "color": "ffffff00" }
+				]
+			},
+			"circle dot2": {
+				"color": [
+					{ "time": 0.3333, "color": "ffffffff" },
+					{ "time": 1.0667, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1.1, "color": "ffffff00" },
+					{ "time": 1.5, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"star1": {
+				"scale": [
+					{ "x": 0, "y": 0 },
+					{ "time": 0.1667 },
+					{ "time": 0.3333, "x": 0, "y": 0 }
+				]
+			},
+			"star2": {
+				"scale": [
+					{ "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.3333, "x": 0, "y": 0 },
+					{ "time": 0.5 },
+					{ "time": 0.6667, "x": 0, "y": 0 }
+				]
+			},
+			"star3": {
+				"scale": [
+					{ "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.8333, "x": 0, "y": 0 },
+					{ "time": 1 },
+					{ "time": 1.1667, "x": 0, "y": 0 }
+				]
+			},
+			"freespin text bg": {
+				"scale": [
+					{},
+					{ "time": 1, "x": 0.95, "y": 0.95 },
+					{ "time": 2.1667 }
+				]
+			},
+			"popup decor": {
+				"scale": [
+					{},
+					{ "time": 0.5333, "x": 0.9, "y": 0.9 },
+					{ "time": 1.0667 },
+					{ "time": 1.6, "x": 0.9, "y": 0.9 },
+					{ "time": 2.1667 }
+				]
+			},
+			"freespin number bg": {
+				"scale": [
+					{},
+					{ "time": 0.1667, "x": 0.95, "y": 0.95 },
+					{ "time": 0.3333, "x": 1.1, "y": 1.1 },
+					{ "time": 0.5 }
+				]
+			},
+			"freespin free": {
+				"translate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.1, "x": 20.04, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.1667 }
+				],
+				"scale": [
+					{ "time": 0.5 },
+					{ "time": 0.6667, "x": 1.1, "y": 1.1 },
+					{ "time": 0.8333 }
+				]
+			},
+			"freespin spins": {
+				"translate": [
+					{ "x": 2.06, "curve": 0.37, "c2": 0.63, "c3": 0.708 },
+					{ "time": 0.1667, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.2667, "x": 23.38, "curve": 0.243, "c3": 0.692, "c4": 0.76 },
+					{ "time": 2.1667, "x": 2.06 }
+				],
+				"scale": [
+					{ "time": 0.8333 },
+					{ "time": 1, "x": 1.1, "y": 1.1 },
+					{ "time": 1.1667 }
+				]
+			},
+			"freespin arm R": {
+				"rotate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.1, "angle": 4.16, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.1667 }
+				]
+			},
+			"freespin mascot": {
+				"scale": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.1, "x": 1.02, "y": 0.98, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.1667 }
+				]
+			},
+			"circle dot": {
+				"scale": [
+					{ "x": 0.5, "y": 0.5 },
+					{ "time": 2.1667, "x": 2, "y": 2 }
+				]
+			},
+			"circle dot2": {
+				"scale": [
+					{ "x": 1.238, "y": 1.238 },
+					{ "time": 1.0667, "x": 2, "y": 2 },
+					{ "time": 1.1, "x": 0.5, "y": 0.5 },
+					{ "time": 2.1667, "x": 1.238, "y": 1.238 }
+				]
+			}
+		}
+	}
+}
+}
