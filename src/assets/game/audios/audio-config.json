@@ -1,14 +1,17 @@
 {
-    "bgm-main": {
-        "bundle": "resources",
-        "path": "background-music/bgm-main",
-        "type": "music",
-        "isMusicGame": true,
-        "isLazyLoad": true
-    },
     "big-win": {
         "bundle": "resources",
         "path": "big-win",
+        "isLazyLoad": true
+    },
+    "pund-freespin": {
+        "bundle": "resources",
+        "path": "pund-freespin",
+        "isLazyLoad": true
+    },
+    "pund-bigwin": {
+        "bundle": "resources",
+        "path": "pund-bigwin",
         "isLazyLoad": true
     },
     "click": {
@@ -71,6 +74,13 @@
         "path": "wincount-stop",
         "isLazyLoad": true
     },
+    "bgm-main": {
+        "bundle": "resources",
+        "path": "background-music/bgm-main",
+        "type": "music",
+        "isMusicGame": true,
+        "isLazyLoad": true
+    },
     "peek-effect-item": {
         "bundle": "resources",
         "isLazyLoad": true
@@ -108,6 +118,14 @@
         "isLazyLoad": true
     },
     "symbol-scatter-win": {
+        "bundle": "resources",
+        "isLazyLoad": true
+    },
+    "mega-win": {
+        "bundle": "resources",
+        "isLazyLoad": true
+    },
+    "super-win": {
         "bundle": "resources",
         "isLazyLoad": true
     }

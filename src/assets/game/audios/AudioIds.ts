@@ -16,7 +16,6 @@ export enum AudioIds {
     SPINNING_TURBO = "spinning-turbo",
     SYMBOL_MATCH = "symbol-match",
     TRANSITION = "transition",
-    WINNING_LEVEL_UP = "winning-level-up",
     BGM_FREESPIN = "bgm-freespin",
     CLICK_SYMBOL = "click-symbol",
     MULTIPLIER_LAND = "multiplier-land",
@@ -26,4 +25,6 @@ export enum AudioIds {
     SYMBOL_SCATTER_WIN = "symbol-scatter-win",
     STINGER_WINCOUNT = "stinger-wincount",
     STINGER_FREESPIN_WIN = "stinger-freespin-win",
+    PUND_FREESPIN = "pund-freespin",
+    PUND_BIGWIN = "pund-bigwin",
 }
