@@ -376,7 +376,8 @@ export const languages = {
         "you_win_free_spin": "คุณชนะ",
         "msg_random_multipliers": "ตัวคูณสุ่มสูงสุด 250x",
         "btn_buy_free_spins": "ซื้อ\nFree Spins",
-        "msg_free_spins": "ตัวคูณเพิ่มขึ้นใน Free Spin"
+        "msg_free_spins": "ตัวคูณเพิ่มขึ้นใน Free Spin",
+        "turbo_icon": "เทอร์โบ"
     },
     "Olympub": {
         "game_icon_name": "Olympub",

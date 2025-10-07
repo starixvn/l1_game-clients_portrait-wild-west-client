@@ -81,7 +81,8 @@ export const languages = {
         "bet": "বেট",
         "msg_random_multipliers": "250x পর্যন্ত র্যান্ডম মাল্টিপ্লায়ার",
         "btn_buy_free_spins": "Buy Free Spins",
-        "msg_free_spins": "Free Spins এ ক্রমবর্ধমান মাল্টিপ্লায়ার"
+        "msg_free_spins": "Free Spins এ ক্রমবর্ধমান মাল্টিপ্লায়ার",
+        "turbo_icon": "Turbo"
     },
     "Common": {
         "bet_history": "বাজি ইতিহাস",

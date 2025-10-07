@@ -39,10 +39,10 @@ export const languages = {
         "from_settle_to_spin2": "Gire mais, ganhe mais!",
         "from_settle_to_spin3": "Experimente o modo Turbo",
         "show_msg_when_spin_phone": "Toque ou segure em Girar para começar",
-        "top_message1": "SÍMBOLOS PAGAM EM QUALQUER LUGAR NA TELA",
-        "top_message2a": "PEDIR",
-        "top_message2b": "PARA MULTIPLICAR O GANHO EM CASCATA",
-        "top_message3": "GANHE ATÉ %{maxWin}x a aposta",
+        "top_message1": "Os símbolos pagam em qualquer lugar da tela",
+        "top_message2a": "Bater",
+        "top_message2b": "para multiplicar o ganho de queda",
+        "top_message3": "Ganhe até %{maxWin}x a aposta",
         "win_tumble_msg": "PARABÉNS!",
         "round_settle_msg": "Boa sorte!",
         "index": "Nº",
@@ -81,7 +81,8 @@ export const languages = {
         "bet": "Aposta",
         "msg_random_multipliers": "Multiplicadores Aleatórios de até 250x",
         "btn_buy_free_spins": "Comprar\nFree Spins",
-        "msg_free_spins": "Multiplicador crescente em Free Spin"
+        "msg_free_spins": "Multiplicador crescente em Free Spin",
+        "turbo_icon": "Turbo"
     },
     "Common": {
         "bet_history": "Histórico de Apostas",

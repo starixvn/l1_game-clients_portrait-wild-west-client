@@ -354,10 +354,10 @@ export const languages = {
         "show_msg_when_spin_phone": "Tap or hold Spin to begin",
         "start": "Start",
         "super_win": "Super Win",
-        "top_message1": "SYMBOLS PAY ANYWHERE ON THE SCREEN",
-        "top_message2a": "HIT",
-        "top_message2b": "TO MULTIPLY TUMBLE WIN",
-        "top_message3": "WIN UP TO %{maxWin}X BET",
+        "top_message1": "Symbols pay anywhere on the screen",
+        "top_message2a": "Hit",
+        "top_message2b": "to multiply tumble win",
+        "top_message3": "Win up to %{maxWin}x bet",
         "total_bet": "Total Bet",
         "total_bet_shorten": "Total Bet",
         "total_multiplier": "Total Multiplier",
@@ -376,7 +376,8 @@ export const languages = {
         "you_win_free_spin": "You win",
         "msg_random_multipliers": "Random Multipliers up to 250x",
         "btn_buy_free_spins": "Buy\nFree Spins",
-        "msg_free_spins": "Increasing Multiplier in Free Spins"
+        "msg_free_spins": "Increasing Multiplier in Free Spins",
+        "turbo_icon": "Turbo"
     },
     "Olympub": {
         "game_icon_name": "Olympub",

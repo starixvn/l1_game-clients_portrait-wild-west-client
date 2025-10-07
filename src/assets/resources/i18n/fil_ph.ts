@@ -39,10 +39,10 @@ export const languages = {
         "from_settle_to_spin2": "Umikot pa, mas manalo!",
         "from_settle_to_spin3": "Subukan ang Turbo mode",
         "show_msg_when_spin_phone": "I-tap o pindutin nang matagal ang Spin upang magsimula",
-        "top_message1": "SYMBOLS PAY ANYWHERE ON THE SCREEN",
-        "top_message2a": "HIT",
-        "top_message2b": "TO MULTIPLY TUMBLE WIN",
-        "top_message3": "WIN UP TO %{maxWin}X BET",
+        "top_message1": "Nagbabayad ang mga simbolo kahit saan sa screen",
+        "top_message2a": "Pindutin",
+        "top_message2b": "para dumami ang panalo sa tumble",
+        "top_message3": "Manalo ng hanggang %{maxWin}x na taya",
         "win_tumble_msg": "CONGRATULATION!",
         "round_settle_msg": "Good luck!",
         "index": "No.",
@@ -81,7 +81,8 @@ export const languages = {
         "bet": "Taya",
         "msg_random_multipliers": "Mga random na Multiplier hanggang 250x",
         "btn_buy_free_spins": "Buy\nFree Spins",
-        "msg_free_spins": "Pataas na Multiplier sa Free Spins"
+        "msg_free_spins": "Pataas na Multiplier sa Free Spins",
+        "turbo_icon": "Turbo"
     },
     "Common": {
         "bet_history": "Bet History",

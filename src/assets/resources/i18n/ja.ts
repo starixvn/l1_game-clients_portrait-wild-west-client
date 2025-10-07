@@ -376,7 +376,8 @@ export const languages = {
         "you_win_free_spin": "当たり",
         "msg_random_multipliers": "最大250xのランダムマルチプライヤー",
         "btn_buy_free_spins": "Free Spins\nを購入",
-        "msg_free_spins": "Free Spin中で増加するマルチプライヤー"
+        "msg_free_spins": "Free Spin中で増加するマルチプライヤー",
+        "turbo_icon": "ターボ"
     },
     "Olympub": {
         "game_icon_name": "Olympub",

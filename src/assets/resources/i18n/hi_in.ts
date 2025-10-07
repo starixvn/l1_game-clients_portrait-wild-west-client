@@ -81,7 +81,8 @@ export const languages = {
         "bet": "बेट",
         "msg_random_multipliers": "250x तक यादृच्छिक गुणक",
         "btn_buy_free_spins": "Free Spins\nखरीदें",
-        "msg_free_spins": "Free Spins में बढ़ता हुआ गुणक"
+        "msg_free_spins": "Free Spins में बढ़ता हुआ गुणक",
+        "turbo_icon": "Turbo"
     },
     "Common": {
         "bet_history": "बेट इतिहास",

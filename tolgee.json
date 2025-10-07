@@ -1,8 +1,4 @@
 {
-    "mainNamespace": "Olympub",
-    "additionalNamespaces": [
-        "Common",
-        "cascadingslot",
-        "FreeSpinBonus"
-    ]
+    "mainNamespace": "WildWestMostWanted",
+    "additionalNamespaces": ["Common", "cascadingslot", "FreeSpinBonus"]
 }

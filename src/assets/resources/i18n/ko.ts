@@ -81,7 +81,8 @@ export const languages = {
         "bet": "베팅",
         "msg_random_multipliers": "최대 250배 랜덤 멀티플라이어",
         "btn_buy_free_spins": "Free Spins\n구매",
-        "msg_free_spins": "Free Spins에서 증가하는 멀티플라이어"
+        "msg_free_spins": "Free Spins에서 증가하는 멀티플라이어",
+        "turbo_icon": "터보"
     },
     "Common": {
         "bet_history": "베팅 내역",

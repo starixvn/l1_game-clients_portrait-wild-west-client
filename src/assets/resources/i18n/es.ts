@@ -354,10 +354,10 @@ export const languages = {
         "show_msg_when_spin_phone": "Pulsa o mantén pulsado Girar para comenzar",
         "start": "Iniciar",
         "super_win": "Super Win",
-        "top_message1": "LOS SÍMBOLOS PAGAN EN CUALQUIER LUGAR DE LA PANTALLA",
-        "top_message2a": "ACIERTA",
-        "top_message2b": "PARA MULTIPLICAR LA GANANCIA EN CASCADA",
-        "top_message3": "GANA HASTA %{maxWin}X TU APUESTA",
+        "top_message1": "Los símbolos pagan en cualquier lugar de la pantalla",
+        "top_message2a": "Acierta",
+        "top_message2b": "para multiplicar la ganancia en cascada",
+        "top_message3": "Gana hasta %{maxWin}x tu apuesta",
         "total_bet": "Apuesta Total",
         "total_bet_shorten": "Apuesta Total",
         "total_multiplier": "Multiplicador Total",
@@ -376,7 +376,8 @@ export const languages = {
         "you_win_free_spin": "Ganaste",
         "msg_random_multipliers": "Multiplicadores aleatorios de hasta 250x",
         "btn_buy_free_spins": "Comprar\nFree Spins",
-        "msg_free_spins": "Multiplicador creciente en Free Spin"
+        "msg_free_spins": "Multiplicador creciente en Free Spin",
+        "turbo_icon": "Turbo"
     },
     "Olympub": {
         "game_icon_name": "Olympub",
