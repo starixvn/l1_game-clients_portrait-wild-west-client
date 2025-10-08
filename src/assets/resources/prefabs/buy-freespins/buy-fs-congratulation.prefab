@@ -55,8 +55,8 @@
     },
     "_lscale": {
       "__type__": "cc.Vec3",
-      "x": 1,
-      "y": 1,
+      "x": 1.15,
+      "y": 1.15,
       "z": 1
     },
     "_mobility": 0,
@@ -173,7 +173,7 @@
       "r": 0,
       "g": 0,
       "b": 0,
-      "a": 150
+      "a": 200
     },
     "_spriteFrame": {
       "__uuid__": "112fa8bd-6bd6-4804-8bde-00279c46ce76@ff1d0",
@@ -426,13 +426,13 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 697,
-      "height": 682
+      "width": 638,
+      "height": 642
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
-      "x": 0.5078909612625538,
-      "y": 0.46920821114369504
+      "x": 0.5015673981191222,
+      "y": 0.4937694704049844
     },
     "_id": ""
   },
@@ -463,11 +463,11 @@
       "a": 255
     },
     "_skeletonData": {
-      "__uuid__": "09766951-c6c9-423f-b9e4-1eef162dea6a",
+      "__uuid__": "f5a7dffa-aa57-469c-9b65-f93763f82357",
       "__expectedType__": "sp.SkeletonData"
     },
     "defaultSkin": "default",
-    "defaultAnimation": "show",
+    "defaultAnimation": "",
     "_premultipliedAlpha": false,
     "_timeScale": 1,
     "_preCacheMode": 0,
@@ -1062,7 +1062,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": -270,
+      "y": -299.487,
       "z": 0
     },
     "_lrot": {

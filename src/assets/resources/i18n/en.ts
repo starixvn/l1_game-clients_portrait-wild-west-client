@@ -293,7 +293,22 @@ export const languages = {
         "invalid_jackpot": "invalid_jackpot",
         "opened_jackpot": "opened_jackpot",
         "max": "Max",
-        "stop_auto_bet": "Stop Auto Bet"
+        "stop_auto_bet": "Stop Auto Bet",
+        "msg_rotate_to_portrait": "Please rotate your screen to portrait mode to play",
+        "auto_bet_header": "Auto Bet Guide",
+        "how_to_use_auto_bet": "How to use Auto Bet",
+        "auto_bet_para_1": "Auto Bet lets you set rules for automatic betting until your chosen conditions are met.",
+        "auto_bet_para_2": "Number of Bets: Total rounds to auto-bet.",
+        "auto_bet_para_3": "On Win:",
+        "auto_bet_para_3_1": "Reset: Return to your starting bet after a win.",
+        "auto_bet_para_3_2": "Increase by: Raise your bet by a set percentage when you win.",
+        "auto_bet_para_3_3": "(Example: Set +20% → Start with $10 → win → next bet $12)",
+        "auto_bet_para_4": "On Loss:",
+        "auto_bet_para_4_1": "Reset: Return to your starting bet after a loss.",
+        "auto_bet_para_4_2": "Reset: Raise your bet by a set percentage when you lose.",
+        "auto_bet_para_4_3": "(Example: Set +50% → Start with $10 → lose → next bet $15)",
+        "auto_bet_para_5": "Stop on Win: Stop Auto Bet when reaching your win target.",
+        "auto_bet_para_6": "Stop on Loss: Stop Auto Bet when reaching your loss limit."
     },
     "cascadingslot": {
         "auto_spin": "Auto Spin",
@@ -374,7 +389,7 @@ export const languages = {
         "win_tumble_msg": "CONGRATULATION!",
         "you_have_won": "You Have Won",
         "you_win_free_spin": "You win",
-        "msg_random_multipliers": "Random Multipliers up to 250x",
+        "msg_random_multipliers": "Random Multipliers up to 500x",
         "btn_buy_free_spins": "Buy\nFree Spins",
         "msg_free_spins": "Increasing Multiplier in Free Spins",
         "turbo_icon": "Turbo"

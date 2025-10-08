@@ -1,13 +1,13 @@
 {
-    "bottomAreaTextColor": "#ffffff",
+    "bottomAreaTextColor": "#FFF0D9",
     "bottomAreaNumberColor": "#ffffff",
-    "bottomAreaButtonBorderColor": "#FFD6B1",
+    "bottomAreaButtonBorderColor": "#FFF0D9",
     "bottomAreaButtonBackgroundColor": "#110C01",
     "bottomAreaWinAmountColor": "#FFF10E",
-    "previewOddsBorderColor": "#FFD6B1",
+    "previewOddsBorderColor": "#DA9454",
     "previewOddsSymbolNumberColor": "#ffffff",
     "previewOddsWinValueColor": "#f7ff18",
     "noticeTextColor": "#000000",
-    "noticeHighlightTextColor": "#CB0000",
+    "noticeHighlightTextColor": "#ffcc00",
     "topMessageTextColor": "#ffffff"
 }

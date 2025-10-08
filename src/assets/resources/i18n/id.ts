@@ -293,7 +293,22 @@ export const languages = {
         "invalid_jackpot": "invalid_jackpot",
         "opened_jackpot": "opened_jackpot",
         "max": "Maks",
-        "stop_auto_bet": "Berhenti Taruhan Otomatis"
+        "stop_auto_bet": "Berhenti Taruhan Otomatis",
+        "msg_rotate_to_portrait": "Silakan putar layar ke mode potret untuk bermain.",
+        "auto_bet_header": "Instruksi Taruhan Otomatis",
+        "how_to_use_auto_bet": "Cara menggunakan Auto Bet",
+        "auto_bet_para_1": "Auto Bet memungkinkan Anda menetapkan aturan untuk taruhan otomatis hingga kondisi yang Anda pilih terpenuhi.",
+        "auto_bet_para_2": "Jumlah Taruhan: Jumlah putaran untuk taruhan otomatis.",
+        "auto_bet_para_3": "Saat Menang",
+        "auto_bet_para_3_1": "Setel Ulang – Kembali ke taruhan awal Anda setelah menang.",
+        "auto_bet_para_3_2": "Tambah dengan: Tingkatkan taruhan Anda dengan persentase yang ditetapkan saat Anda menang.",
+        "auto_bet_para_3_3": "(Contoh: Setel +20% → Mulai dengan $10 → menang → taruhan berikutnya $12)",
+        "auto_bet_para_4": "Saat Kalah",
+        "auto_bet_para_4_1": "Reset: Kembali ke taruhan awal Anda setelah kalah.",
+        "auto_bet_para_4_2": "Reset: Naikkan taruhan Anda dengan persentase yang ditetapkan saat Anda kalah.",
+        "auto_bet_para_4_3": "(Contoh: Set +50% → Mulai dengan $10 → kalah → taruhan berikutnya $15)",
+        "auto_bet_para_5": "Stop on Win: Hentikan Taruhan Otomatis saat mencapai target kemenangan Anda.",
+        "auto_bet_para_6": "Stop on Loss: Hentikan Taruhan Otomatis saat mencapai batas kerugian Anda."
     },
     "cascadingslot": {
         "auto_spin": "Auto Putar",
@@ -374,7 +389,7 @@ export const languages = {
         "win_tumble_msg": "SELAMAT!",
         "you_have_won": "Anda Telah Menang",
         "you_win_free_spin": "Anda menang",
-        "msg_random_multipliers": "Pengganda acak hingga 250x",
+        "msg_random_multipliers": "Pengganda acak hingga 500x",
         "btn_buy_free_spins": "Beli\nFree Spins",
         "msg_free_spins": "Pengganda meningkat dalam Free Spin",
         "turbo_icon": "Turbo"

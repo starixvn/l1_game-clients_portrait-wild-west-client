@@ -1,0 +1,83 @@
+
+result-buy-freespins.webp
+size: 1800,640
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 0, 0
+  size: 634, 640
+  orig: 636, 642
+  offset: 1, 1
+  index: -1
+arm L
+  rotate: false
+  xy: 1508, 527
+  size: 107, 113
+  orig: 107, 113
+  offset: 0, 0
+  index: -1
+arm R
+  rotate: false
+  xy: 1508, 424
+  size: 87, 101
+  orig: 87, 101
+  offset: 0, 0
+  index: -1
+bigwin tag
+  rotate: true
+  xy: 1617, 80
+  size: 560, 105
+  orig: 562, 107
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 1256, 290
+  size: 250, 350
+  orig: 250, 350
+  offset: 0, 0
+  index: -1
+buble
+  rotate: true
+  xy: 636, 14
+  size: 626, 307
+  orig: 628, 310
+  offset: 1, 1
+  index: -1
+effect circle
+  rotate: false
+  xy: 1256, 22
+  size: 266, 266
+  orig: 266, 266
+  offset: 0, 0
+  index: -1
+freespin spins
+  rotate: true
+  xy: 1724, 189
+  size: 451, 76
+  orig: 453, 78
+  offset: 1, 1
+  index: -1
+mouth
+  rotate: true
+  xy: 1508, 350
+  size: 72, 55
+  orig: 72, 55
+  offset: 0, 0
+  index: -1
+popup decor
+  rotate: true
+  xy: 945, 23
+  size: 617, 309
+  orig: 619, 311
+  offset: 1, 1
+  index: -1
+star
+  rotate: true
+  xy: 1508, 303
+  size: 45, 70
+  orig: 47, 72
+  offset: 1, 1
+  index: -1

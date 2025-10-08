@@ -293,7 +293,22 @@ export const languages = {
         "invalid_jackpot": "invalid_jackpot",
         "opened_jackpot": "opened_jackpot",
         "max": "Max",
-        "stop_auto_bet": "Dừng cược tự động"
+        "stop_auto_bet": "Dừng cược tự động",
+        "msg_rotate_to_portrait": "Vui lòng xoay màn hình sang chiều dọc để chơi",
+        "auto_bet_header": "Hướng Dẫn Cược Tự Động",
+        "how_to_use_auto_bet": "Cách sử dụng Auto Bet",
+        "auto_bet_para_1": "Auto Bet cho phép bạn đặt quy tắc để tự động đặt cược cho đến khi đạt được các điều kiện bạn chọn.",
+        "auto_bet_para_2": "Số lượng Cược: Tổng số vòng để tự động đặt cược.",
+        "auto_bet_para_3": "Nếu cược thắng",
+        "auto_bet_para_3_1": "Đặt lại – Trở về mức cược ban đầu của bạn sau khi thắng.",
+        "auto_bet_para_3_2": "Tăng thêm: Tăng mức cược của bạn theo một tỷ lệ phần trăm nhất định khi bạn thắng.",
+        "auto_bet_para_3_3": "(Ví dụ: Đặt +20% → Bắt đầu với $10 → thắng → cược tiếp theo $12)",
+        "auto_bet_para_4": "Nếu cược thua",
+        "auto_bet_para_4_1": "Reset: Trở lại mức cược ban đầu của bạn sau khi thua.",
+        "auto_bet_para_4_2": "Reset: Tăng mức cược của bạn theo một tỷ lệ phần trăm nhất định khi bạn thua.",
+        "auto_bet_para_4_3": "(Ví dụ: Đặt +50% → Bắt đầu với $10 → thua → cược tiếp theo $15)",
+        "auto_bet_para_5": "Stop on Win: Dừng Tự động Đặt cược khi đạt đến mục tiêu thắng của bạn.",
+        "auto_bet_para_6": "Stop on Loss: Dừng Tự động Đặt cược khi đạt đến giới hạn thua lỗ của bạn."
     },
     "cascadingslot": {
         "auto_spin": "Tự Quay",
@@ -374,7 +389,7 @@ export const languages = {
         "win_tumble_msg": "CHÚC MỪNG!",
         "you_have_won": "Bạn Đã Chiến Thắng",
         "you_win_free_spin": "Bạn đã thắng",
-        "msg_random_multipliers": "Hệ Số Nhân ngẫu nhiên lên đến 250x",
+        "msg_random_multipliers": "Hệ Số Nhân ngẫu nhiên lên đến 500x",
         "btn_buy_free_spins": "Mua\nFree Spins",
         "msg_free_spins": "Hệ Số Nhân tăng dần trong Free Spin",
         "turbo_icon": "Siêu Tốc"
