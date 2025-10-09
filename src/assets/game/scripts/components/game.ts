@@ -10,8 +10,8 @@ import "./../../../resources/i18n";
 
 startGame(settings.name, containerOptions, siteConfigs, settings.tolgeeNamespaces);
 
-const { ccclass, property } = _decorator;
-const { observer, render, handle } = Observer;
+const { ccclass } = _decorator;
+const { observer } = Observer;
 
 @ccclass
 @observer(settings.name)
