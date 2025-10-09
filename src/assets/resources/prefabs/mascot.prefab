@@ -38,8 +38,8 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 0,
-      "y": 0,
+      "x": -74.283,
+      "y": -24.802,
       "z": 0
     },
     "_lrot": {
@@ -107,10 +107,6 @@
     },
     "spineMascot": {
       "__id__": 6
-    },
-    "gameInfo": {
-      "__uuid__": "5f4849f3-ae3e-4ff1-a0e5-18c01ece03dc",
-      "__expectedType__": "cc.JsonAsset"
     },
     "_id": ""
   },
