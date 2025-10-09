@@ -392,7 +392,8 @@ export const languages = {
         "auto_bet_para_4_2": "Sıfırla: Kaybettiğinizde bahsinizi belirli bir yüzde oranında artırın.",
         "auto_bet_para_4_3": "(Örnek: +%50 Ayarla → 10$ ile Başla → kaybet → sonraki bahis 15$)",
         "auto_bet_para_5": "Stop on Win: Kazanma hedefinize ulaştığınızda Otomatik Bahsi durdurun.",
-        "auto_bet_para_6": "Kayba Durdurma: Kayıp sınırınıza ulaştığınızda Otomatik Bahsi durdurun."
+        "auto_bet_para_6": "Kayba Durdurma: Kayıp sınırınıza ulaştığınızda Otomatik Bahsi durdurun.",
+        "tooltip_live_stat": "Canlı İstatistik"
     },
     "PickleballLoveStory": {
         "game_name": null,

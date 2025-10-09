@@ -308,7 +308,8 @@ export const languages = {
         "auto_bet_para_4_2": "Reset: Raise your bet by a set percentage when you lose.",
         "auto_bet_para_4_3": "(Example: Set +50% → Start with $10 → lose → next bet $15)",
         "auto_bet_para_5": "Stop on Win: Stop Auto Bet when reaching your win target.",
-        "auto_bet_para_6": "Stop on Loss: Stop Auto Bet when reaching your loss limit."
+        "auto_bet_para_6": "Stop on Loss: Stop Auto Bet when reaching your loss limit.",
+        "tooltip_live_stat": "Live Stat"
     },
     "cascadingslot": {
         "auto_spin": "Auto Spin",

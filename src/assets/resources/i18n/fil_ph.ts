@@ -392,7 +392,8 @@ export const languages = {
         "auto_bet_para_4_2": "I-reset: Itaas ang iyong taya sa isang set na porsyento kapag natalo ka.",
         "auto_bet_para_4_3": "(Halimbawa: Itakda ang +50% → Magsimula sa $10 → matalo → susunod na taya $15)",
         "auto_bet_para_5": "Stop on Win: Itigil ang Auto Bet kapag naabot mo na ang iyong target na panalo.",
-        "auto_bet_para_6": "Itigil sa Pagkawala: Ihinto ang Auto Bet kapag naabot mo na ang iyong limitasyon sa pagkawala."
+        "auto_bet_para_6": "Itigil sa Pagkawala: Ihinto ang Auto Bet kapag naabot mo na ang iyong limitasyon sa pagkawala.",
+        "tooltip_live_stat": "Live Stat"
     },
     "PickleballLoveStory": {
         "game_name": "Pickleball Love Story",

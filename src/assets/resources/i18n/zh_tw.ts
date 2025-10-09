@@ -308,7 +308,8 @@ export const languages = {
         "auto_bet_para_4_2": "Reset：失敗後，按設定的百分比增加您的賭注。",
         "auto_bet_para_4_3": "（範例：設定 +50% → 從 $10 開始 → 輸掉 → 下次投注 $15）",
         "auto_bet_para_5": "Stop on Win：當達到您的贏錢目標時停止自動投注。",
-        "auto_bet_para_6": "損失停止：達到損失上限時停止自動投注。"
+        "auto_bet_para_6": "損失停止：達到損失上限時停止自動投注。",
+        "tooltip_live_stat": "即時統計"
     },
     "cascadingslot": {
         "auto_spin": "自動旋轉",

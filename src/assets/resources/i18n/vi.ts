@@ -308,7 +308,8 @@ export const languages = {
         "auto_bet_para_4_2": "Reset: Tăng mức cược của bạn theo một tỷ lệ phần trăm nhất định khi bạn thua.",
         "auto_bet_para_4_3": "(Ví dụ: Đặt +50% → Bắt đầu với $10 → thua → cược tiếp theo $15)",
         "auto_bet_para_5": "Stop on Win: Dừng Tự động Đặt cược khi đạt đến mục tiêu thắng của bạn.",
-        "auto_bet_para_6": "Stop on Loss: Dừng Tự động Đặt cược khi đạt đến giới hạn thua lỗ của bạn."
+        "auto_bet_para_6": "Stop on Loss: Dừng Tự động Đặt cược khi đạt đến giới hạn thua lỗ của bạn.",
+        "tooltip_live_stat": "Thống Kê Trực Tiếp"
     },
     "cascadingslot": {
         "auto_spin": "Tự Quay",

@@ -392,7 +392,8 @@ export const languages = {
         "auto_bet_para_4_2": "Redefinir: Aumente sua aposta em uma porcentagem definida quando você perde.",
         "auto_bet_para_4_3": "(Exemplo: Definir +50% → Começar com $10 → perder → próxima aposta $15)",
         "auto_bet_para_5": "Stop on Win: Pare a aposta automática ao atingir sua meta de ganhos.",
-        "auto_bet_para_6": "Parar em Perda: Pare a Aposta Automática ao atingir seu limite de perda."
+        "auto_bet_para_6": "Parar em Perda: Pare a Aposta Automática ao atingir seu limite de perda.",
+        "tooltip_live_stat": "Estatística ao Vivo"
     },
     "PickleballLoveStory": {
         "game_name": "Pickleball Love Story",

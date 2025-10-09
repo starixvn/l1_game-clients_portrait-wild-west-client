@@ -392,7 +392,8 @@ export const languages = {
         "auto_bet_para_4_2": "Tetapkan Semula: Tingkatkan taruhan anda dengan peratusan yang ditetapkan apabila anda kalah.",
         "auto_bet_para_4_3": "(Contoh: Tetapkan +50% → Mula dengan $10 → kalah → pertaruhan seterusnya $15)",
         "auto_bet_para_5": "Stop on Win: Hentikan Pertaruhan Auto apabila mencapai sasaran kemenangan anda.",
-        "auto_bet_para_6": "Berhenti Apabila Rugi: Hentikan Pertaruhan Auto apabila mencapai had kerugian anda."
+        "auto_bet_para_6": "Berhenti Apabila Rugi: Hentikan Pertaruhan Auto apabila mencapai had kerugian anda.",
+        "tooltip_live_stat": "Statistik Langsung"
     },
     "Olympub": {
         "game_name": "Olympub",

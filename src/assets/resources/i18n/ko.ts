@@ -392,7 +392,8 @@ export const languages = {
         "auto_bet_para_4_2": "재설정: 졌을 때 설정된 비율만큼 베팅을 올립니다.",
         "auto_bet_para_4_3": "(예: +50% 설정 → $10부터 시작 → 패배 → 다음 베팅 $15)",
         "auto_bet_para_5": "Stop on Win: 당첨 목표에 도달하면 자동 베팅을 중단합니다.",
-        "auto_bet_para_6": "손실 시 중단: 손실 한도에 도달하면 자동 베팅을 중단합니다."
+        "auto_bet_para_6": "손실 시 중단: 손실 한도에 도달하면 자동 베팅을 중단합니다.",
+        "tooltip_live_stat": "실시간 통계"
     },
     "PickleballLoveStory": {
         "game_name": null,

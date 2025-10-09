@@ -308,7 +308,8 @@ export const languages = {
         "auto_bet_para_4_2": "Reset: Naikkan taruhan Anda dengan persentase yang ditetapkan saat Anda kalah.",
         "auto_bet_para_4_3": "(Contoh: Set +50% → Mulai dengan $10 → kalah → taruhan berikutnya $15)",
         "auto_bet_para_5": "Stop on Win: Hentikan Taruhan Otomatis saat mencapai target kemenangan Anda.",
-        "auto_bet_para_6": "Stop on Loss: Hentikan Taruhan Otomatis saat mencapai batas kerugian Anda."
+        "auto_bet_para_6": "Stop on Loss: Hentikan Taruhan Otomatis saat mencapai batas kerugian Anda.",
+        "tooltip_live_stat": "Statistik Langsung"
     },
     "cascadingslot": {
         "auto_spin": "Auto Putar",

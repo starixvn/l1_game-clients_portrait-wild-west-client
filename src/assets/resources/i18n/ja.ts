@@ -308,7 +308,8 @@ export const languages = {
         "auto_bet_para_4_2": "Reset: 負けた場合、賭け金を一定の割合で上げます。 ",
         "auto_bet_para_4_3": "（例：+50%に設定 → $10から開始 → 負け → 次のベット $15）",
         "auto_bet_para_5": "Stop on Win：勝利目標に達したら自動ベットを停止します。",
-        "auto_bet_para_6": "損失ストップ：損失限度額に達した場合、自動ベットを停止します。"
+        "auto_bet_para_6": "損失ストップ：損失限度額に達した場合、自動ベットを停止します。",
+        "tooltip_live_stat": "ライブ統計"
     },
     "cascadingslot": {
         "auto_spin": "オートスピン",

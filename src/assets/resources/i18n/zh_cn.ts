@@ -308,7 +308,8 @@ export const languages = {
         "auto_bet_para_4_2": "Reset：失败后，按设定的百分比增加您的赌注。",
         "auto_bet_para_4_3": "（示例：设置 +50% → 从 10 美元开始 → 失败 → 下一个赌注 15 美元）",
         "auto_bet_para_5": "Stop on Win：当达到您的赢钱目标时停止自动投注。",
-        "auto_bet_para_6": "Stop on Loss：当达到您的亏损限额时停止自动投注。"
+        "auto_bet_para_6": "Stop on Loss：当达到您的亏损限额时停止自动投注。",
+        "tooltip_live_stat": "实时统计"
     },
     "cascadingslot": {
         "auto_spin": "自动旋转",

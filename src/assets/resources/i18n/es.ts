@@ -308,7 +308,8 @@ export const languages = {
         "auto_bet_para_4_2": "Restablecer: Aumenta tu apuesta en un porcentaje fijo cuando pierdes.",
         "auto_bet_para_4_3": "(Ejemplo: Establecer +50% → Empezar con $10 → perder → siguiente apuesta $15)",
         "auto_bet_para_5": "Stop on Win: Detener la apuesta automática al alcanzar tu objetivo de ganancias.",
-        "auto_bet_para_6": "Detener en pérdida: Detén la apuesta automática al alcanzar tu límite de pérdida."
+        "auto_bet_para_6": "Detener en pérdida: Detén la apuesta automática al alcanzar tu límite de pérdida.",
+        "tooltip_live_stat": "Estadísticas en vivo"
     },
     "cascadingslot": {
         "auto_spin": "Giro Automático",
