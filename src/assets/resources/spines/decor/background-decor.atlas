@@ -1,0 +1,62 @@
+
+background-decor.webp
+size: 469,469
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest
+  rotate: false
+  xy: 0, 103
+  size: 252, 366
+  orig: 252, 366
+  offset: 0, 0
+  index: -1
+cloud 1
+  rotate: false
+  xy: 254, 164
+  size: 193, 77
+  orig: 196, 80
+  offset: 2, 1
+  index: -1
+cloud 2
+  rotate: false
+  xy: 254, 97
+  size: 155, 65
+  orig: 166, 69
+  offset: 4, 2
+  index: -1
+cloud 3
+  rotate: false
+  xy: 0, 19
+  size: 228, 82
+  orig: 238, 85
+  offset: 8, 2
+  index: -1
+cloud 4
+  rotate: false
+  xy: 325, 51
+  size: 100, 44
+  orig: 104, 46
+  offset: 2, 1
+  index: -1
+grass
+  rotate: false
+  xy: 230, 4
+  size: 93, 91
+  orig: 95, 93
+  offset: 1, 1
+  index: -1
+grass shadow
+  rotate: true
+  xy: 449, 187
+  size: 54, 8
+  orig: 56, 10
+  offset: 1, 1
+  index: -1
+woodbox
+  rotate: false
+  xy: 254, 243
+  size: 215, 226
+  orig: 217, 228
+  offset: 1, 1
+  index: -1
