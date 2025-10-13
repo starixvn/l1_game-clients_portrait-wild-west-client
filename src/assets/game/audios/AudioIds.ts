@@ -25,6 +25,4 @@ export enum AudioIds {
     SYMBOL_SCATTER_WIN = "symbol-scatter-win",
     STINGER_WINCOUNT = "stinger-wincount",
     STINGER_FREESPIN_WIN = "stinger-freespin-win",
-    PUND_FREESPIN = "pund-freespin",
-    PUND_BIGWIN = "pund-bigwin",
 }
