@@ -351,7 +351,7 @@ export const languages = {
         "index": "STT",
         "in_free_spins": "Trong {value} Free Spins",
         "label_on_game_icon": "Nổ Sập",
-        "last_free_spin": "Lượt Free Spin Cuối",
+        "last_free_spin": "Free Spin Cuối",
         "mega_win": "Thắng Siêu Lớn",
         "multiplier": "Số Nhân",
         "multiplier_preview_odds": "Biểu tượng số nhân sẽ được áp dụng khi có kết quả thắng.",
@@ -363,7 +363,7 @@ export const languages = {
         "press_to_continue": "Bấm Vào Vị Trí Bất Kỳ Để Tiếp Tục",
         "reach_max_win": "Bạn Đã Đạt Mức Tiền Thắng Tối Đa",
         "real_mode": "Chơi Thật",
-        "remaining_free_spins": "Lượt Free Spin Còn Lại",
+        "remaining_free_spins": "Free Spin Còn Lại",
         "round_settle_msg": "Chúc may mắn!",
         "scatter_odds_preview": "%{numOfScatters}+ Scatters kích hoạt %{numOfSpins} FREE SPINS.",
         "show_msg_when_spin_desktop": "Bấm Quay hoặc giữ phím Space",
@@ -392,7 +392,7 @@ export const languages = {
         "you_win_free_spin": "Bạn đã thắng",
         "msg_random_multipliers": "Hệ Số Nhân ngẫu nhiên lên đến 500x",
         "btn_buy_free_spins": "Mua\nFree Spins",
-        "msg_free_spins": "Hệ Số Nhân tăng dần trong Free Spin",
+        "msg_free_spins": "Hệ Số Nhân cộng dồn trong Free Spin",
         "turbo_icon": "Siêu Tốc"
     },
     "Olympub": {
