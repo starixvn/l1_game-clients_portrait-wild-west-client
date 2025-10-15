@@ -952,7 +952,7 @@
       "b": 255,
       "a": 255
     },
-    "_string": "999",
+    "_string": "",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 48,
@@ -966,7 +966,7 @@
       "__expectedType__": "cc.BitmapFont"
     },
     "_isSystemFontUsed": false,
-    "_spacingX": -5,
+    "_spacingX": 6,
     "_isItalic": false,
     "_isBold": false,
     "_isUnderline": false,
@@ -1461,6 +1461,7 @@
       "__id__": 0
     },
     "fileId": "b681wN0udOI7V5sBf+Ta3u",
+    "instance": null,
     "targetOverrides": null
   }
 ]
